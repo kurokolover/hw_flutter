@@ -1,0 +1,7 @@
+config.json
+.DS_Store
+.dart_tool/
+build/
+.idea/
+*.iml
+.flutter-plugins-dependencies
